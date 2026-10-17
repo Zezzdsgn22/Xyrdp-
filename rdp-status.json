@@ -115,9 +115,9 @@
     "ram_free_gb": 11.96,
     "disk_total_gb": 255.4,
     "disk_free_gb": 66.1,
-    "cpu_percent": 2,
-    "uptime_menit": 192,
-    "updated_at": "2026-10-17T01:48:48.0424204Z"
+    "cpu_percent": 10,
+    "uptime_menit": 193,
+    "updated_at": "2026-10-17T01:49:52.451403Z"
   },
-  "heartbeat_at": "2026-10-17T01:48:48.0423969Z"
+  "heartbeat_at": "2026-10-17T01:49:52.4513811Z"
 }
